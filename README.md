@@ -1,2 +1,2 @@
 # Analytics-Project
-Trying to learn Python 
+Trying to learn Python during PGDM journey
