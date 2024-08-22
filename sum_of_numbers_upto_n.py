@@ -13,3 +13,6 @@ if __name__ == "__main__":
     print("hi")
     for i in range(1, 11):
         print(f"sum of numbers up to {i} = {sum_of_numbers_upto_n(i)}")
+
+
+print("HelloWorld")

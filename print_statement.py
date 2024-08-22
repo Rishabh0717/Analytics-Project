@@ -1,6 +1,5 @@
 print("Hello World")
 
-
 myname = "Rishabh"
 
 print(f"Hello {myname}! How are you?")
